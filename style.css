@@ -91,10 +91,6 @@ color:#857885;
  	color: black;
  	}
 
-a:hover { 
-color:black;
- }
-
 
  	@media(max-width: 760px) {
  		.container {
